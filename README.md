@@ -1,4 +1,11 @@
-## Welcome to GitHub Pages
+## Welcome to my Learning journal
+
+Here is where I plan to put my thoughts and labs as I go through my 102 class
+
+### Growth mindset 
+
+Everytime I think of growth midset I always think of the movie *Meet The Robinsons* 
+There is a line in the movie that always helps 
 
 
 
