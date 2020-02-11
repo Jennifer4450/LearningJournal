@@ -1,15 +1,18 @@
 ## Welcome to my Learning journal
 
-Here is where I plan to put my thoughts and labs as I go through my 102 class
-
-### Growth mindset 
-
-Everytime I think of growth midset I always think of the movie *Meet The Robinsons* 
-There is a line in the movie that always helps 
-
-
+Here is where I plan to put my journals, notes and labs as I go through my 102 class
 
 [My Git Hub Page](https://jennifer4450.github.io/LearningJournal/)
+
+### Growth Mindset 
+
+Everytime I think of growth midset I always think of the movie *Meet The Robinsons*. There is a line in the movie that always helps me look a different way at the thought of making a mistake *"Failure you learn, success not so much"*. When using this mantra I feel better about my potential and use that to continue to learn and grow. When you feel better about your own potential you also want to see others acheive more. 
+
+### Reminders I can use to help me keep my Growth Mindset
+- Everyone has to start somewhere
+- Your learning process is not the same as everyone else
+- Don't be afraid of challenges, if you fail, that's ok because tha's how you learn!
+
 
 
 Table of Contents
