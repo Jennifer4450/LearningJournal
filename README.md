@@ -16,7 +16,7 @@ Everytime I think of growth mindset I always think of the movie *Meet The Robins
 
 
 Table of Contents
-
+- [Reading Journal 02](NotesRead02.md)
 
 
 You can use the [editor on GitHub](https://github.com/Jennifer4450/LearningJournal/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
