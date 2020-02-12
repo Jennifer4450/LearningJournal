@@ -23,7 +23,7 @@ Everytime I think of growth mindset I always think of the movie *Meet The Robins
 
 
 Table of Contents
-- [Reading Journal 01]
+- [Reading Journal 01](NotesRead01.md)
 - [Reading Journal 02](NotesRead02.md)
 
 
