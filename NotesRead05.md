@@ -12,3 +12,5 @@ Property- indicates what part of the element you want to change, ie: color, font
 Values- chooses specifically what you want the property to be. ie: Arial, yellow
 CSS foreground color-color of the text inside an element
 CSS background color-color of the background
+
+[My Git Hub Page](https://jennifer4450.github.io/LearningJournal/)

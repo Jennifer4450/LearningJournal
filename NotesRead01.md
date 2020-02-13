@@ -14,3 +14,5 @@ great article to read [here](https://guides.github.com/features/mastering-markdo
 - initilize the repository with a README
 - Add an MIT license
 - create repository
+
+[My Git Hub Page](https://jennifer4450.github.io/LearningJournal/)

@@ -29,6 +29,7 @@ For some third party text editor options that are free, check out the article [h
 - IDE stand for Intergrated Development Environment.  Basically this is a suite that has diferent kinds of software (text editor, file manager, compiler, deugger) in one place. Similar to Outlook. 
 
 
+[My Git Hub Page](https://jennifer4450.github.io/LearningJournal/)
 
 
 

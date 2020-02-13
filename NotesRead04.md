@@ -6,3 +6,4 @@ Book: Duckett HTML and CSS Chapter 18
 
 - Who is the site for?
     -
+[My Git Hub Page](https://jennifer4450.github.io/LearningJournal/)

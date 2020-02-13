@@ -30,6 +30,7 @@ Table of Contents
 - [Reading Journal 05](NotesRead05.md)
 - [Reading Journal 06a](NotesRead06a.md)
 - [Reading Journal 06b](NotesRead06b.md)
+- [Reading Journal 07](NotesRead07.md)
 
 
 
